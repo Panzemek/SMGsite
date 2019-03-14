@@ -1,0 +1,2 @@
+# SMGsite
+Seattle MegaGames website
